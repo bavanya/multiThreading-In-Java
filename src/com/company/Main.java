@@ -21,7 +21,5 @@ public class Main {
         float timeTaken1 = (endTime1 - startTime1) / 1000F;
         System.out.println("Time taken for single process is" + timeTaken1 + " seconds");
         //TODO: Add Multithreading.
-
-
     }
 }
